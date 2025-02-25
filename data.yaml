@@ -1,0 +1,7 @@
+train: C:\Users\jeffi\PycharmProjects\training\train
+val: C:\Users\jeffi\PycharmProjects\training\valid
+
+
+nc: 1
+names: ['car']
+
